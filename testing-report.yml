@@ -1,0 +1,41 @@
+---
+- summary: |
+    Проверка авторизации через Discord
+  status: pass
+
+- summary: |
+    Проверка авторизации через GitHub
+  status: pass
+  
+- summary: |
+    Проверка регистрации пользователя
+  status: pass
+  
+- summary: |
+    Проверка входа пользователя с несуществующими логином и паролем
+  status: pass 
+  
+- summary: |
+    Проверка работы сайта при низкой скорости интернета
+  status: pass   
+  
+- summary: |
+    Проверка создания баттла, временной лимит
+  status: pass
+  
+- summary: |
+    Проверка создания баттла, выбор сложности
+  status: pass  
+  
+- summary: |
+    Проверка фильтра "Leaderboard"
+  status: pass  
+  
+- summary: |
+    Проверка мобильной адаптивности
+  status: fail   
+  
+
+  
+  
+    
